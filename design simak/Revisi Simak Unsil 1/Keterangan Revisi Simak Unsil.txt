@@ -12,3 +12,7 @@ Revisi Situs Simak Unsil 1
 1. Merubah penempatan menu login menjadi ke sebelah kanan 
 2. Merubah menu login menjadi border 2px solid untuk memperkecil border pada tabel awal yang asalnya 5px solid
 3. Memindahkan menu F.A.Q kesebelah kanan
+
+Revisi Situs Simak Unsil 2
+1. Menggati warna background kata kata mutiara dengan warna hijau gelap (#09854D)
+2. mengganti warna backgroun home dengan warna coklat (#301F0D) dan font warna putih (#FFF)
